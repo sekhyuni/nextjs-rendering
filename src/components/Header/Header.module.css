@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.headerButtonContainer {
+  position: absolute;
+  right: 20px;
+}
